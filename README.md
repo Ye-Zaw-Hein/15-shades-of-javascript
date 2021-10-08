@@ -1,2 +1,2 @@
-# 15-shades-of-javascript
+# 15 Shades Of Javascript
 Testing
